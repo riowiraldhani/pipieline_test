@@ -3,6 +3,7 @@ package de;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
+import org.junit.BeforeClass;
 import org.junit.Test;
 
 /**
@@ -10,8 +11,8 @@ import org.junit.Test;
  */
 public class AppTest {
 
-    @Before
-    public void initData() {
+    @BeforeClass
+    public static void initData() {
         Note note = new Note();
         note.setTitle("testTitle");
         note.setDesc("testDesc");

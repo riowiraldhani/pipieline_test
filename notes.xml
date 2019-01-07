@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<notes>
+    <note title="title">
+        <desc>description</desc>
+        <done>false</done>
+    </note>
+    <note title="title2">
+        <desc>description2</desc>
+        <done>true</done>
+    </note>
+    <note title="title3">
+        <desc>desc3</desc>
+        <done>false</done>
+    </note>
+</notes>

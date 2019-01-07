@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<notes>
+    <note title="testTitle">
+        <desc>testDesc</desc>
+        <done>false</done>
+    </note>
+    <note title="testTitle">
+        <desc>testDesc</desc>
+        <done>false</done>
+    </note>
+    <note title="titleToAdd">
+        <desc>descToAdd</desc>
+        <done>false</done>
+    </note>
+    <note title="testTitle">
+        <desc>testDesc</desc>
+        <done>false</done>
+    </note>
+</notes>
